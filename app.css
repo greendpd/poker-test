@@ -1,0 +1,31 @@
+#top-bar {
+    height:10vh;
+    background-color:#2ec4b6;
+}
+
+#all-content {
+    display:flex;
+}
+
+.blank-panel {
+    width:10%;
+}
+
+#main-content{
+    width:80%;
+    height:80vh;
+    background-color:#cbf3f0;
+}
+
+#card{
+    height:208px;
+    width: 137px;
+    /* background:url('img/deck.jpg') -200px -200px; */
+    background:url('img/deck.jpg') -1849px -722px;
+    background-size:2000px auto;
+}
+
+#hand{
+    display:flex;
+    flex-wrap:wrap;
+}
